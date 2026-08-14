@@ -1,0 +1,1 @@
+﻿Get-NetTCPConnection -LocalPort 3389 | Select-Object LocalAddress, LocalPort, OwningProcess, State
