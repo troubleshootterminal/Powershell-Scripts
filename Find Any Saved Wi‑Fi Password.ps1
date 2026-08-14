@@ -1,0 +1,1 @@
+﻿netsh wlan show profile name="Optimaws" key=clear | Select-String "Key Content"
