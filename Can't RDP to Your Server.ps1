@@ -1,0 +1,1 @@
+﻿Test-NetConnection -ComputerName "192.168.1.96" -Port 3389
